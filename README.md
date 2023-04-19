@@ -11,4 +11,8 @@ Includes original images and the mirrored ones at data/mirrored_images
 ## Running
 you can simply run `bash run.sh` which will build,clean & run or call bin/src/mirror_image.exe -I {input_directory} -O {output_directory}
 
-You can build using cmake
+## Building
+You can build using cmake or as mentioned `bash run.sh`
+
+## Dependencies
+FreeImage & CUDA libraries
